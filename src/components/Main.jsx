@@ -387,11 +387,11 @@ import img2 from '../assets/40627ec2d79050e66b1f8942626a00f798167e0c.png'
 import img3 from '../assets/0e0e9c58a8c4d609b16846d2c1d7fb6ca57266a6.png'
 import img4 from '../assets/115c5db3f4271e21de6e52b9200cbde015cf2775.png'
 import img9 from '../assets/БАННЕР 1140х250 ДОСТАВКА.svg'
-import Card2 from "./card2";
-import Mini from "./mini";
-import Min from "./min";
-import Btn from "./btn";
-import Cart from "./cart";
-import AccordionUsage from "./accordion";
-import Product from "./Product";
+import Card2 from "../components/card2";
+import Mini from "../components/mini";
+import Min from "../components/min";
+import Btn from "../components/btn";
+import Cart from "../components/cart";
+import AccordionUsage from "../components/accordion";
+import Product from "../components/Product";
 
